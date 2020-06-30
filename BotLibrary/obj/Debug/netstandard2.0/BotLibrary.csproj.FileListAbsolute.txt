@@ -1,0 +1,16 @@
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\bin\Debug\netstandard2.0\BotLibrary.deps.json
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\bin\Debug\netstandard2.0\BotLibrary.dll
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.csprojAssemblyReference.cache
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.AssemblyInfoInputs.cache
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.AssemblyInfo.cs
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\bin\Debug\netstandard2.0\BotLibrary.pdb
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.dll
+D:\Programming\VisualStudioProjects\TeamGoalBand\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.pdb
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.csprojAssemblyReference.cache
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.AssemblyInfoInputs.cache
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.AssemblyInfo.cs
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.dll
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\obj\Debug\netstandard2.0\BotLibrary.pdb
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\bin\Debug\netstandard2.0\BotLibrary.deps.json
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\bin\Debug\netstandard2.0\BotLibrary.dll
+D:\Programming\VisualStudioProjects\!Libs\BotLibrary\bin\Debug\netstandard2.0\BotLibrary.pdb

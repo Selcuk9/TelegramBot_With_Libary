@@ -1,0 +1,1 @@
+Server=(localdb)\mssqllocaldb;Database=GoalBotDB;Trusted_Connection=True;
